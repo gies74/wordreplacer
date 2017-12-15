@@ -1,0 +1,145 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "repA": "000D6F0000728D2C",
+      "repB": "Wekker J",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00023A5CAE",
+      "repB": "Printer",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00039D8606",
+      "repB": "Globe",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F0000728D83",
+      "repB": "NAS",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F0000736B98",
+      "repB": "Kwijt",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00039D8E55",
+      "repB": "Beweging Woonkamer",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F0000C3E99B",
+      "repB": "Beweging Badkamer",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F0002769EC9",
+      "repB": "Temp/Hum Badkamer (uit)",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00019DCB03",
+      "repB": "Temp/Hum Serre",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F0000737690",
+      "repB": "Wasmachine",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F0001A400B0",
+      "repB": "Afzuiging douche",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00023A5C04",
+      "repB": "Boiler",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00023A5CF0",
+      "repB": "CV-ketel",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F0003973BEB",
+      "repB": "Droger",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00039D8384",
+      "repB": "Vriezer",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00039D8386",
+      "repB": "Kerstboom",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00039D83C2",
+      "repB": "Koelkast",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00039D83D3",
+      "repB": "Vaatwasser",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00025F65F8",
+      "repB": "Stretch",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    },
+    {
+      "repA": "000D6F00039D8C45",
+      "repB": "Schakelaar",
+      "type": "Simple",
+      "case": "Override",
+      "active": true
+    }
+  ]
+}
