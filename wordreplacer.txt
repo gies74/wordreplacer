@@ -2,144 +2,284 @@
   "version": "2.0.10",
   "replacements": [
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F0000728D2C",
       "repB": "Wekker J",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00023A5CAE",
       "repB": "Printer",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00039D8606",
       "repB": "Globe",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F0000728D83",
       "repB": "NAS",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F0000736B98",
       "repB": "Kwijt",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00039D8E55",
       "repB": "Beweging Woonkamer",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F0000C3E99B",
       "repB": "Beweging Badkamer",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F0002769EC9",
       "repB": "Temp/Hum Badkamer (uit)",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00019DCB03",
       "repB": "Temp/Hum Serre",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F0000737690",
       "repB": "Wasmachine",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F0001A400B0",
       "repB": "Afzuiging douche",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00023A5C04",
       "repB": "Boiler",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00023A5CF0",
       "repB": "CV-ketel",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F0003973BEB",
       "repB": "Droger",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00039D8384",
       "repB": "Vriezer",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00039D8386",
       "repB": "Kerstboom",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00039D83C2",
       "repB": "Koelkast",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00039D83D3",
       "repB": "Vaatwasser",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00025F65F8",
       "repB": "Stretch",
-      "type": "Simple",
-      "case": "Override",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Override",
       "repA": "000D6F00039D8C45",
       "repB": "Schakelaar",
-      "type": "Simple",
+      "type": "Simple"
+    },
+    {
+      "active": true,
       "case": "Override",
-      "active": true
+      "repA": "80:1F:02:AA:69:90",
+      "repB": "ICIDU REPEATER",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "00:08:9B:8C:97:DC",
+      "repB": "NAS",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "00:04:20:17:4C:44",
+      "repB": "SQUEEZEBOX",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "00:04:20:1B:4E:6E",
+      "repB": "SQUEEZEBOXCONTRO",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "00:04:20:26:28:37",
+      "repB": "Radio Keuken",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "00:04:20:27:5E:96",
+      "repB": "Wekker Slaapkamer",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "78:25:44:7F:DE:F9",
+      "repB": "SMILE",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "78:25:44:00:3A:AE",
+      "repB": "STRETCH003AAF",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "48:5A:B6:8C:9A:32",
+      "repB": "BROTHER_AL-IN-1",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "18:B4:30:15:4B:FC",
+      "repB": "NEST Thermostaat",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "20:6A:8A:A1:FE:9E",
+      "repB": "Gez. laptop",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "08:11:96:43:E7:08",
+      "repB": "Werk laptop Gies",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "48:5D:60:3C:19:F0",
+      "repB": "Prive laptop Odette",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "CC:07:AB:61:51:F1",
+      "repB": "Samsung S4-mini Gies",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "18:1E:B0:16:84:21",
+      "repB": "Samsung S3-mini Odette",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "98:52:B1:30:CE:3E",
+      "repB": "Samsung Galaxy Tab 2 Tablet",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "00:1D:09:75:84:BA",
+      "repB": "Vaste PC zolder Gies",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "00:22:43:68:B3:82",
+      "repB": "Netbook Odette",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "00:20:E0:65:D1:30",
+      "repB": "Oude laptop Gies",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Override",
+      "repA": "F4:EC:38:92:AF:96",
+      "repB": "TP-LINK USB adapter",
+      "type": "Simple"
     }
   ]
 }
