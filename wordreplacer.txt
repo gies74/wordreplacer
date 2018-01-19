@@ -144,140 +144,140 @@
     {
       "active": true,
       "case": "Override",
-      "repA": "80:1F:02:AA:69:90",
+      "repA": "/\\b80[:\\-]1F[:\\-]02[:\\-]AA[:\\-]69[:\\-]90\\b/",
       "repB": "ICIDU REPEATER",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "00:08:9B:8C:97:DC",
+      "repA": "/\\b00[:\\-]08[:\\-]9B[:\\-]8C[:\\-]97[:\\-]DC\\b/",
       "repB": "NAS",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "00:04:20:17:4C:44",
+      "repA": "/\\b00[:\\-]04[:\\-]20[:\\-]17[:\\-]4C[:\\-]44\\b/",
       "repB": "SQUEEZEBOX",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "00:04:20:1B:4E:6E",
+      "repA": "/\\b00[:\\-]04[:\\-]20[:\\-]1B[:\\-]4E[:\\-]6E\\b/",
       "repB": "SQUEEZEBOXCONTRO",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "00:04:20:26:28:37",
+      "repA": "/\\b00[:\\-]04[:\\-]20[:\\-]26[:\\-]28[:\\-]37\\b/",
       "repB": "Radio Keuken",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "00:04:20:27:5E:96",
+      "repA": "/\\b00[:\\-]04[:\\-]20[:\\-]27[:\\-]5E[:\\-]96\\b/",
       "repB": "Wekker Slaapkamer",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "78:25:44:7F:DE:F9",
+      "repA": "/\\b78[:\\-]25[:\\-]44[:\\-]7F[:\\-]DE[:\\-]F9\\b/",
       "repB": "SMILE",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "78:25:44:00:3A:AE",
+      "repA": "/\\b78[:\\-]25[:\\-]44[:\\-]00[:\\-]3A[:\\-]AE\\b/",
       "repB": "STRETCH003AAF",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "48:5A:B6:8C:9A:32",
+      "repA": "/\\b48[:\\-]5A[:\\-]B6[:\\-]8C[:\\-]9A[:\\-]32\\b/",
       "repB": "BROTHER_AL-IN-1",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "18:B4:30:15:4B:FC",
+      "repA": "/\\b18[:\\-]B4[:\\-]30[:\\-]15[:\\-]4B[:\\-]FC\\b/",
       "repB": "NEST Thermostaat",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "20:6A:8A:A1:FE:9E",
+      "repA": "/\\b20[:\\-]6A[:\\-]8A[:\\-]A1[:\\-]FE[:\\-]9E\\b/",
       "repB": "Gez. laptop",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "08:11:96:43:E7:08",
+      "repA": "/\\b08[:\\-]11[:\\-]96[:\\-]43[:\\-]E7[:\\-]08\\b/",
       "repB": "Werk laptop Gies",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "48:5D:60:3C:19:F0",
+      "repA": "/\\b48[:\\-]5D[:\\-]60[:\\-]3C[:\\-]19[:\\-]F0\\b/",
       "repB": "Prive laptop Odette",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "CC:07:AB:61:51:F1",
+      "repA": "/\\bCC[:\\-]07[:\\-]AB[:\\-]61[:\\-]51[:\\-]F1\\b/",
       "repB": "Samsung S4-mini Gies",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "18:1E:B0:16:84:21",
+      "repA": "/\\b18[:\\-]1E[:\\-]B0[:\\-]16[:\\-]84[:\\-]21\\b/",
       "repB": "Samsung S3-mini Odette",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "98:52:B1:30:CE:3E",
+      "repA": "/\\b98[:\\-]52[:\\-]B1[:\\-]30[:\\-]CE[:\\-]3E\\b/",
       "repB": "Samsung Galaxy Tab 2 Tablet",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "00:1D:09:75:84:BA",
+      "repA": "/\\b00[:\\-]1D[:\\-]09[:\\-]75[:\\-]84[:\\-]BA\\b/",
       "repB": "Vaste PC zolder Gies",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "00:22:43:68:B3:82",
+      "repA": "/\\b00[:\\-]22[:\\-]43[:\\-]68[:\\-]B3[:\\-]82\\b/",
       "repB": "Netbook Odette",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "00:20:E0:65:D1:30",
+      "repA": "/\\b00[:\\-]20[:\\-]E0[:\\-]65[:\\-]D1[:\\-]30\\b/",
       "repB": "Oude laptop Gies",
       "type": "Simple"
     },
     {
       "active": true,
       "case": "Override",
-      "repA": "F4:EC:38:92:AF:96",
+      "repA": "/\\bF4[:\\-]EC[:\\-]38[:\\-]92[:\\-]AF[:\\-]96\\b/",
       "repB": "TP-LINK USB adapter",
       "type": "Simple"
     }
